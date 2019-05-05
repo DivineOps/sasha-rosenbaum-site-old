@@ -1,0 +1,26 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Sasha Rosenbaum"
+theme = "hurock"
+
+googleAnalytics = "UA-115911216-1"
+
+[author]
+  name = "Sasha Rosenbaum"
+  email = "divineops@outlook.com"
+  
+  github = "DivineOps"
+  twitter = "DivineOps"
+  linkedin = "sasha-rosenbaum"
+
+[params]
+  Description = "Azure Global Black Belt @Microsoft"
+  # Optional
+  gaID = "Google Analytics Tracking ID"
+  highlight_theme = "tomorrow-night"
+  notoc = true
+
+
+[blackfriday]
+  plainIdAnchors = true
+  hrefTargetBlank = true

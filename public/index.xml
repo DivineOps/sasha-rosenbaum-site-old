@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sasha Rosenbaum</title>
+    <link>/</link>
+    <description>Recent content on Sasha Rosenbaum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>divineops@outlook.com (Sasha Rosenbaum)</managingEditor>
+    <webMaster>divineops@outlook.com (Sasha Rosenbaum)</webMaster>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DevOps Days Edinburgh - When is AI taking over _my_ job?</title>
+      <link>/posts/2019-10-11-devops-days-detroit/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2019-10-11-devops-days-detroit/</guid>
+      <description>Tremendously excited about giving the talk at DevOps Days Edinburgh about the AI revolution underway. If you are in Scotland, you are invited to attend this great event and come to my talk, When is AI taking over my job?</description>
+    </item>
+    
+    <item>
+      <title>DevOps Days Detroit - CI/CD for Machine Learning</title>
+      <link>/posts/2018-10-06-devops-days-detroit/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2018-10-06-devops-days-detroit/</guid>
+      <description>Had a ton of fun speaking at DevOps Days Detroit about CI/CD for Machine Learning. The video recording of the talk and additional resources on the topic are coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Chicago Code Camp - Azure Serverless DevOps</title>
+      <link>/posts/2018-06-20-code-camp-18/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2018-06-20-code-camp-18/</guid>
+      <description>The slides to my Chicago Code Camp 2018 presentation on Azure Serverless DevOps are on SlideShare. Unfortunately they do not include the demo, so you will have to learn about the continuous integration and delivery and the developer experience for Azure Functions from the resources links!</description>
+    </item>
+    
+    <item>
+      <title>Azure Ninjas Podcast - App Service</title>
+      <link>/posts/2018-05-17-azure-ninjas-app-service/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2018-05-17-azure-ninjas-app-service/</guid>
+      <description>Following our episode on Serverless, we go into the broader Azure App Service technology with our hosts Elizabeth Graham and myself, and the App Service program managers Oded Dvoskin, Byron Tardif, Christina Compy and Yi Liao We discuss the coolest features of the Azure App Service, deploying apps on private networks, Linux containers and more.   Azure Ninjas Podcast - Azure App Service</description>
+    </item>
+    
+    <item>
+      <title>Azure Ninjas Podcast - Azure Stack</title>
+      <link>/posts/2018-05-11-azure-ninjas-stack/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2018-05-11-azure-ninjas-stack/</guid>
+      <description>Our co-hosts Justin Jakowski and yours truly, interviewing the director of Program Management for hybrid strategies, Natalia Mackevicius and a Stack Global Black Belt Ultan Kinahan about the unique value proposition of Azure Stack  and the key workloads enabled by the technology   Azure Ninjas Podcast - Azure Stack</description>
+    </item>
+    
+    <item>
+      <title>Full Stack Journey Podcast - Getting Inside Microsoft Azure</title>
+      <link>/posts/2018-03-20-full-stack-journey-azure/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2018-03-20-full-stack-journey-azure/</guid>
+      <description>A great conversation with the host of the Full Stack Journey podcast, Scott Lowe about professional trends in IT and resources and tips on how to get onboarded on Azure cloud
+Full Stack Journey - Episode 19 - Getting Inside Microsoft Azure</description>
+    </item>
+    
+    <item>
+      <title>Azure Ninjas Podcast - Terraform</title>
+      <link>/posts/2018-02-23-azure-ninjas-teraform/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2018-02-23-azure-ninjas-teraform/</guid>
+      <description>Our co-hosts Pete Roden and Eddie Villalba, interviewing a Terraform engineer Tom Harvey about using Terraform on Azure   Azure Ninjas Podcast - Terraform</description>
+    </item>
+    
+    <item>
+      <title>Azure Ninjas Podcast - Event Grid</title>
+      <link>/posts/2018-01-29-azure-ninjas-event-grid/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2018-01-29-azure-ninjas-event-grid/</guid>
+      <description>The Azure Ninjas Event Grid podcast features Azure Event Grid program manager Bahram Banisadr, and the hosts David Barkol and Pete Roden. We will discuss how the product compares to Azure Service Bus and Event Hubs, and review how it works with other IaaS and PaaS services to make integrations easier!   Azure Ninjas Podcast - Event Grid</description>
+    </item>
+    
+    <item>
+      <title>Azure Ninjas Podcast - Storage</title>
+      <link>/posts/2018-01-03-azure-ninjas-storage/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2018-01-03-azure-ninjas-storage/</guid>
+      <description>Me and my amazing team mate Justin Jakowski, interviewing a senior Azure Storage program manager Karl Rautenstrauch for an overview of the new features in Azure Storage services, and how Microsoft customers can leverage them to maximize business value!   Azure Ninjas Podcast - Storage</description>
+    </item>
+    
+    <item>
+      <title>Azure Ninjas Podcast - Serverless</title>
+      <link>/posts/2017-10-03-azure-ninjas-serverless/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2017-10-03-azure-ninjas-serverless/</guid>
+      <description>The Azure Serverless podcast features Azure Functions product group members Donna Malayeri and Fabio Cavalcante and the hosts - me, Elizabeth Graham and Pete Roden reviewing the benefits of Serverless technology, why it is rapidly gaining popularity in the recent years, and how customers can leverage it to achieve business results in a cost-efficient manner in a dynamically scalable environment!   Azure Ninjas Podcast - Serverless</description>
+    </item>
+    
+    <item>
+      <title>Azure Ninjas Podcast</title>
+      <link>/posts/2017-10-01-azure-ninjas/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2017-10-01-azure-ninjas/</guid>
+      <description>I am excited to announce that me and a few members of my Azure Global Black Belt team, the glorious Justin Jakowski, Elizabeth Graham and Pete Roden are starting a new podcast -
+Azure Ninjas! In the podcast, we slice and dice through Azure architectures for different products and services, interviewing the members of the Microsoft engineering teams. The podcast is intentionally audio only so you can listen and learn on the go.</description>
+    </item>
+    
+    <item>
+      <title>The Azure Podcast - Serverless Computing and Event Grid</title>
+      <link>/posts/2017-09-21-azure-podcast-serverless/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2017-09-21-azure-podcast-serverless/</guid>
+      <description>A great conversation with the hosts of the Azure Podcast about Azure Functions and Azure Event Grid and the advantages of Serverless computing   The Azure Podcast - Serverless Computing and Event Grid</description>
+    </item>
+    
+    <item>
+      <title>Arrested DevOps Podcast - Work/Life Balance</title>
+      <link>/posts/2017-09-13-arrested-devops-work-life-balance/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2017-09-13-arrested-devops-work-life-balance/</guid>
+      <description>A podcast recorded at DevOps Days Chicago 2017 with two of the speakers, the awesome Katie Prizy and Bill Weiss, myself and the amazing Matt Stratton. The podcast is about the importance of work-life balance, and it was a follow-up to Katie&amp;rsquo;s talk on Devaluing Hard Work. In her talk, Katie shows how some IT professionals refuse automation because working long hours is a badge of honor.
+Arrested DevOps – Episode 99 – Work/Life Balance</description>
+    </item>
+    
+    <item>
+      <title>My Book - Serverless Computing in Azure with .NET</title>
+      <link>/posts/2017-08-17-serverless-computing-azure-net/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2017-08-17-serverless-computing-azure-net/</guid>
+      <description>I am tremendously excited to be publishing my first book, Serverless Computing in Azure with .NET!
+Get it from Packt Publishing website, access it through Safari Online, or purchase it from Amazon:   Also, given the advance rate in the high-tech world, I can promise you one thing -  my next book is going to be a romantic novel - the technology never changes ;-)</description>
+    </item>
+    
+    <item>
+      <title>Single “Person” of Failure</title>
+      <link>/posts/2015-12-22-single-person-of-failure/</link>
+      <pubDate>Tue, 22 Dec 2015 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2015-12-22-single-person-of-failure/</guid>
+      <description>Watch the recording of my talk at DevOpsDays Silicon Valley 2015 on a single “person” of failure. Do you have that one expert without whom your entire organization cannot function? Here is how you can recognize and improve the situation Single Person of Failure (YouTube)
+ -- </description>
+    </item>
+    
+    <item>
+      <title>Chef prince of Azure</title>
+      <link>/posts/2015-03-31-chef-prince-of-azure/</link>
+      <pubDate>Tue, 31 Mar 2015 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2015-03-31-chef-prince-of-azure/</guid>
+      <description>Me and Trevor Hess in a Chef Prince of Azure rap video. Those were the days when we used to have fun at 10th Magnitude!
+What happens on the internet is forever :-) Chef Prince of Azure (YouTube)
+ -- </description>
+    </item>
+    
+    <item>
+      <title>Arrested DevOps Podcast - ChatOps Extravaganza</title>
+      <link>/posts/2015-01-10-arrested-devops-chatops/</link>
+      <pubDate>Sat, 10 Jan 2015 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2015-01-10-arrested-devops-chatops/</guid>
+      <description>A recording from DevOps Days Chicago 2015 Jason Hand from Victor Ops, Peter Burkholder from Chef, your truly, Matt Stratton and Trevor Hess. The conversation follows Jason&amp;rsquo;s talk on ChatOps, and dives into the advantages of shared messaging channel throughout the company instead of leading individual IM conversations with your co-workers.   Arrested DevOps – Episode 42 – ChatOps Extravaganza</description>
+    </item>
+    
+    <item>
+      <title>Arrested DevOps Podcast - Help! I Need Somebody!</title>
+      <link>/posts/2014-07-10-arrested-devops-help/</link>
+      <pubDate>Thu, 10 Jul 2014 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2014-07-10-arrested-devops-help/</guid>
+      <description> A conversation with Columbia college professor David Gerding, your truly, Matt Stratton and Trevor Hess about how to ask for help in IT, and the risks of bullying yonger professionals
+Audio Version Arrested DevOps – Episode 17 – Help! I Need Somebody!
+Video Version Arrested DevOps – Episode 17 – Help! I Need Somebody! (YouTube)
+ -- </description>
+    </item>
+    
+    <item>
+      <title>Arrested DevOps Podcast - Managing Your Mental Stack</title>
+      <link>/posts/2014-05-20-arrested-devops-mental-stack/</link>
+      <pubDate>Tue, 20 May 2014 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2014-05-20-arrested-devops-mental-stack/</guid>
+      <description>A conversation with your truly, Matt Stratton and Trevor Hess about keeping up with new technology advances in the world of DevOps and beyond
+Audio Version Arrested DevOps – Episode 8 – Managing Your Mental Stack
+Video Version Arrested DevOps – Episode 8 – Managing Your Mental Stack (YouTube)  --</description>
+    </item>
+    
+    <item>
+      <title>Where are the older posts?</title>
+      <link>/posts/2014-01-01-older-posts/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2014-01-01-older-posts/</guid>
+      <description>The older, technical posts have been removed from the blog because maintaining old content sucks. External links turn dead, hosting providers close shop, styling gets screwed up after an update&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Prompt for Sign-In on 401 – Unauthorized Errors in MVC App with Azure Active Directory Using WS Federation</title>
+      <link>/posts/2012-03-10-long-test/</link>
+      <pubDate>Sat, 10 Mar 2012 00:00:00 -0500</pubDate>
+      <author>divineops@outlook.com (Sasha Rosenbaum)</author>
+      <guid>/posts/2012-03-10-long-test/</guid>
+      <description>Following my post on Partial Authentication with AAD I am going to elaborate on how to prompt the user to sign into the application instead of throwing a 401 – unauthorized error.
+First step is to add HTTP error 401 redirect to IIS configuration in Web.config
+&amp;lt;system.webServer&amp;gt; &amp;lt;httpErrors existingResponse=&amp;#34;Replace&amp;#34; defaultResponseMode=&amp;#34;Redirect&amp;#34; errorMode=&amp;#34;Custom&amp;#34;&amp;gt; &amp;lt;remove statusCode=&amp;#34;401&amp;#34;/&amp;gt; &amp;lt;error statusCode=&amp;#34;401&amp;#34; responseMode=&amp;#34;ExecuteURL&amp;#34; path=&amp;#34;/Account/SignInRedirect&amp;#34;/&amp;gt; &amp;lt;/httpErrors&amp;gt; ... &amp;lt;system.webServer&amp;gt; Note that the responseMode is ExecuteURL (and not Redirect). This allows the requested URL to be passed through to the SignInRedirect method.</description>
+    </item>
+    
+  </channel>
+</rss>
