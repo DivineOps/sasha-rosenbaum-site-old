@@ -1,5 +1,5 @@
 ---
-title: "DevOps Days Kiev - The (Microsoft) DevOps Journey?"
+title: "DevOps Days Kiev - The (Microsoft) DevOps Journey"
 date: 2019-05-01T00:00:00-05:00
 draft: false
 ---
