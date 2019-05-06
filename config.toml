@@ -14,7 +14,7 @@ googleAnalytics = "UA-115911216-1"
   linkedin = "sasha-rosenbaum"
 
 [params]
-  Description = "Azure Global Black Belt @Microsoft"
+  Description = "Azure DevOps Program Manager @Microsoft"
   # Optional
   gaID = "Google Analytics Tracking ID"
   highlight_theme = "tomorrow-night"
