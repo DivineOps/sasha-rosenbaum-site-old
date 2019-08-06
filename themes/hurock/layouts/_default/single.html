@@ -3,10 +3,10 @@
 
 <div id="post-header">
   <p class="post-infos">
-    <time>{{ .Date.Format "2006-01-02 15:04" }}</time>
+    <time>{{ .Date.Format "2006-01-02" }}</time>
     {{ .Render "tags" }}
   </p>
-  <h1>{{ .Title }}</h1>
+  <h2>{{ .Title }}</h2>
 </div>
 
 {{ if and (not .Site.Params.notoc) .TableOfContents }}

@@ -19,6 +19,10 @@ left: 0;
 z-index: 2;
 }
 
+.sidebar-title{
+  color: #d7dcdc;
+}
+
 #flex-container {
 display: flex;
 /* Make sure height goes to bottom of screen even if small article, but allow it to expand vertically */
@@ -36,11 +40,11 @@ flex: 1;
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 #sidebar {
-background-color: #484848;
+background-color: #1e141e;
 }
 
 body,#container {
-background-color: #F8F8F8;
+background-color: #282328;
 }
 
 
@@ -74,10 +78,10 @@ color:#fff;
 text-decoration: none;
 }
 .sidebar-tagline {
-font-size: 2rem;
-color: #1EAEDB;
+font-size: 22px;
+color: #00beaf;
 text-shadow: 0px 0px 15px #0A0F10;
-line-height: 1;
+line-height: 1.1;
 }
 
 .sidebar-nav {
@@ -126,10 +130,10 @@ font-size: 30px;
 .sidebar-externals a {
 font-size: 30px;
 vertical-align: middle;
-color: #b5bd68;
+color: #e1ffe1;
 }
 .sidebar-externals a:hover {
-color: #ffa;
+color: #00beaf;
 }
 
 .sidebar-bookpromo{
@@ -172,7 +176,7 @@ font-size: x-small;
 margin-bottom: 0;
 }
 .post-infos {
-color: #AAA;
+color: white;
 text-transform: uppercase;
 letter-spacing: 0.1em;
 border-bottom: 1px solid #EEE;
@@ -351,7 +355,7 @@ display: block;
 
 .post {
 font-family: proxima-nova,"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
-color: #484848;
+color: #d7dcdc;
 font-size: 16px;
 line-height: 25px;
 text-align: justify;
@@ -364,22 +368,22 @@ padding-left: 30px;
 }
 
 .post a {
-color: #c05b4d;
+color: #00f0c8;
 text-decoration: none;
 }
 .post a:hover {
-color: #a5473a;
+color: #00beaf;
 text-decoration: underline;
 }
 
 a.readmore {
 color: #484848;
-background-color: #C05B4D;
+background-color: #008F11;
 padding: 6px 20px;
 }
 a.readmore:hover {
 color: #C05B4D;
-background-color: #484848;
+background-color: #008F11;
 text-decoration: none;
 }
 

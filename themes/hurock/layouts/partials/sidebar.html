@@ -3,7 +3,7 @@
   <div class="sidebar-about">
     <a href="{{ .Site.BaseURL }}">
       <img src="media/me.jpg" title="{{ .Site.Author.name }}" alt="Me" />
-      <h4 class="sidebar-title">{{ .Site.Title }}</h4>
+      <h3 class="sidebar-title">{{ .Site.Title }}</h3>
     </a>
     <span class="sidebar-tagline">{{ with .Site.Params.Description }} {{ . | safeHTML}} {{end}}</span>
   </div>
@@ -24,28 +24,31 @@
   <div class="sidebar-externals">
     {{ if or .Site.Author.github .Site.Author.twitter .Site.Author.facebook .Site.Author.googleplus .Site.Author.linkedin }}
   
-    {{ with .Site.Author.github }}
-    <a class="genericon genericon-github" href="https://github.com/{{ . }}" ><!--GitHub--></a>
+      {{ with .Site.Author.github }}
+      <a class="genericon genericon-github" href="https://github.com/{{ . }}" ><!--GitHub--></a>
+      {{ end }}
+    
+      {{ with .Site.Author.twitter }}
+      | <a class="genericon genericon-twitter" href="https://twitter.com/{{ . }}"><!--Twitter--></a>
+      {{ end }}
+    
+      {{ with .Site.Author.facebook }}
+      | <a class="genericon genericon-facebook" href="https://www.facebook.com/{{ . }}"><!--Facebook--></a>
+      {{ end }}
+    
+      {{ with .Site.Author.googleplus }}
+      | <a class="genericon genericon-googleplus" href="https://plus.google.com/+{{ . }}"><!--Google+--></a>
+      {{ end }}
+    
+      {{ with .Site.Author.linkedin }}
+      | <a class="genericon genericon-linkedin-alt" href="https://www.linkedin.com/in/{{ . }}"><!--Linkedin--></a>
+      {{ end }}
+    
+      {{ with .Site.Author.email }}
+      | <a class="genericon genericon-mail" href="mailto:{{ .Site.Author.email }}"><!--Email--></a>
+      {{ end }}
+
     {{ end }}
-  
-    {{ with .Site.Author.twitter }}
-    | <a class="genericon genericon-twitter" href="https://twitter.com/{{ . }}"><!--Twitter--></a>
-    {{ end }}
-  
-    {{ with .Site.Author.facebook }}
-    | <a class="genericon genericon-facebook" href="https://www.facebook.com/{{ . }}"><!--Facebook--></a>
-    {{ end }}
-  
-    {{ with .Site.Author.googleplus }}
-    | <a class="genericon genericon-googleplus" href="https://plus.google.com/+{{ . }}"><!--Google+--></a>
-    {{ end }}
-  
-    {{ with .Site.Author.linkedin }}
-    | <a class="genericon genericon-linkedin-alt" href="https://www.linkedin.com/in/{{ . }}"><!--Linkedin--></a>
-    {{ end }}
-  
-    {{ end }}
-    | <a class="genericon genericon-mail" href="mailto:{{ .Site.Author.email }}"><!--Email--></a>
 </div>
 
 <div class="sidebar-bookpromo">
